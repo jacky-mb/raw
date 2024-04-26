@@ -16,5 +16,5 @@ mv ${SETUP_DIR}/Katalon_Studio_* ${SETUP_DIR}/katalon
 if [ -d "${SETUP_DIR}/katalon" ]; then
   echo "DONE! Setup katalon version ${VERSION} completed!!!"
 fi
-echo "export PATH=\$PATH:${SETUP_DIR}/katalon" > ~/.bashrc
+echo "export PATH=\$PATH:${SETUP_DIR}/katalon" >> ~/.bashrc
 source ~/.bashrc
