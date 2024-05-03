@@ -1,0 +1,46 @@
+version: '3.9'
+services:
+  db:
+    container_name: mysql-db
+    platform: linux/arm64/v8
+    networks:
+      - internal
+    image: mysql:latest
+    command: --default-authentication-plugin=mysql_native_password
+    ports:
+      - 3306:3306
+    hostname: mysql-db
+    restart: always
+    environment:
+      MYSQL_ROOT_PASSWORD: admin
+      MYSQL_DATABASE: report
+
+
+  adminer:
+    container_name: adminer
+    platform: linux/arm64/v8
+    image: adminer
+    restart: always
+    ports:
+      - 9090:8080
+    depends_on:
+      - db
+    networks:
+      - internal
+
+  app:
+    image: jacky36195/auto:latest
+    container_name: app
+    #    build:
+    #      context: .
+    #      dockerfile: Dockerfile
+    ports:
+      - 6789:6789
+    depends_on:
+      - db
+    networks:
+      - internal
+    volumes:
+      - ./tokens:/app/tokens
+networks:
+  internal:
