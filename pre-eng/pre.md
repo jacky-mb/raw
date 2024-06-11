@@ -68,4 +68,8 @@ Of course, we have so many opinion opposite banned dogs such as
   outdoors, or building designated areas for dogs.
 - Severe penalties for dog owners who mismanage dogs can cause serious consequences
 
-------------------------------------------Thank for watching-----------------------------------------------------------
+
+
+```
+"I'm Jacky. If you enjoyed this topic, please like, subscribe, and share. Thanks for watching!" 
+```
