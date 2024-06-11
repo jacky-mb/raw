@@ -20,7 +20,7 @@ slowly
 
 `Noise pollution` : barking dogs make uncomfortable to neighbourhood or this your family
 
-`Law` : Dog owner can in law if it attacks people
+`Law` : If a dog attacks someone, the owner can be held responsible under the law
 
 ```text 
 Pitpull attach children to die in HaNoi
