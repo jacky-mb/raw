@@ -22,7 +22,7 @@ slowly
 
 This is some case about impact from dogs to people
 
-![Screenshot from 2024-06-11 16-38-45.png](..%2F..%2F..%2F..%2FPictures%2FScreenshots%2FScreenshot%20from%202024-06-11%2016-38-45.png)
+
 ```text 
 - Pitpull attach to dead a children in HaNoi
 https://www.youtube.com/watch?v=-pG9nXEVi4M
@@ -37,11 +37,11 @@ Currently , We have many opinion and solution impact to your dogs such as : bann
 However, all way always have positive and negative if apply this rules
 ### Positive
 
-Never feel scary dogs can tap in your legs
+- Never feel scary dogs can tap in your legs
 
-Don't worry met a dog's waste, free play and chill in the park, walking ...
+- Don't worry met a dog's waste, free play and chill in the park, walking ...
 
-Have nice sleep cause by not bothered from barking dogs
+- Have nice sleep cause by not bothered from barking dogs
 
 ![OIP.jpeg](img%2FOIP.jpeg)
 
