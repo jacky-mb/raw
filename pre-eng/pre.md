@@ -26,6 +26,7 @@ slowly
 Pitpull attach children to die in HaNoi
 https://www.youtube.com/watch?v=-pG9nXEVi4M
 ```
+![maxresdefault.jpg](img%2Fmaxresdefault.jpg)
 
 ![benh-dai-va-cach-phong-tranh-benh-dai-1.jpg](img%2Fbenh-dai-va-cach-phong-tranh-benh-dai-1.jpg)
 
