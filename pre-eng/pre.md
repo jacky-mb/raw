@@ -5,7 +5,7 @@
 I don’t raising animals and dogs , with me dogs is a normal entity in the worlds and universe.
 **I like dogs and also like dog meat**
 
-## Reality:git
+## Reality
 
 At the moment, we have many time case dogs attach people , that special is adults and children , victim so wear and
 slowly
