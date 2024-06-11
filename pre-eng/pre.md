@@ -1,7 +1,7 @@
 # Hi every one, to day i am going to talk about “Should be banned dogs from city?”
 ![www_tiengdong_com-meme-cheems-bonk.jpg](img%2Fwww_tiengdong_com-meme-cheems-bonk.jpg)
 
-I don’t raising animals and dogs , with me dogs is a normal entity in the worlds and university.
+I don’t raising animals and dogs , with me dogs is a normal entity in the worlds and universe.
 Each people, dog can a pet, friends or foods.
 
 ## Reality:
