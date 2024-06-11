@@ -3,16 +3,16 @@
 I don’t raising animals and dogs , with me dogs is a normal entity in the worlds and university.
 Each people, dog can a pet, friends or foods.
 
-![OIP.jpeg](img%2FOIP.jpeg)
+
 
 ## Reality:
 
-At the moment, we have many time case dogs attach people , that special is adult and children , victim so wear and
+At the moment, we have many time case dogs attach people , that special is adults and children , victim so wear and
 slowly
 
 ## Risk
 
-`Dangerous attach` :Dogs can attach people from public area such as park, market, railways ...
+`Dangerous attach` : Dogs can attach people from public area such as park, market, railways ...
 
 `Sickness` : Rabies is contagious from tap a dog - a reason people to die
 
@@ -30,9 +30,31 @@ https://www.youtube.com/watch?v=-pG9nXEVi4M
 
 ![benh-dai-va-cach-phong-tranh-benh-dai-1.jpg](img%2Fbenh-dai-va-cach-phong-tranh-benh-dai-1.jpg)
 ```
-This is a patient rabies cause by dog bites
+This is a patient rabies cause by dog bites. I think him feel so painful
 ```
-## Should be banned dogs from city? 
+## Should be banned dogs from city?
+Currently , We have many opinion and solution impact to your dogs such as : banned take care dogs pet in condominium, get mask for dogs in public area
+However, all way always have positive and negative if apply this rules
 ### Positive
 
-Currently , We have many opinion and solution impact to your dogs such as : banned take care dogs pet in condominium, get mask for dogs in public area
+Never feel scary dogs can tap in your legs
+
+Don't worry met a dog's waste, free play and chill in the park, walking ...
+
+Have nice sleep cause by not bothered from barking dogs
+
+![OIP.jpeg](img%2FOIP.jpeg)
+
+### Negative
+Of course, we have so many opinion opposite banned dogs such as
+
+- With some who, in our mind dogs is a friend . We like dogs and want take-care of dog, living alone or having psychological problems
+- Dog is kind of animal, so dogs food is good. So many people like eat meat
+- Using dog for security
+
+## Conclusion
+
+Instead of banning dogs, stricter management measures can be applied, such as requiring dogs to be on a leash when outdoors, or building designated areas for dogs.
+
+
+
