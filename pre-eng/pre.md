@@ -42,7 +42,7 @@ However, all way always have positive and negative if apply this rules
 
 ### Positive
 
-- Never feel scary dogs can tap in your legs
+- Never feel scary dogs tap in your legs
 
 - Don't worry met a dog's waste, free play and chill in the park, walking ...
 
